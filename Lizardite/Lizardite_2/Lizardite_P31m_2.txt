@@ -1,0 +1,70 @@
+*data for   ICSD # 181420 - File created with release 2021.2
+Copyright   (C)2022 by FIZ Karlsruhe - Leibniz Institute for Information 
+            Infrastructure. All rights reserved.
+Coll Code   181420
+Rec  Date   2012/02/01
+Mod  Date   2013/02/01
+Chem Name   Trimagnesium tetrahydroxopentaoxodisilicate
+Structured  Mg3 (Si2 O5 (O H)4)
+Sum         H4 Mg3 O9 Si2
+ANX         A2B3X9
+Min Name    Lizardite 1T
+Min Group   Serpentine
+Min Origin  Gew-graze, Lizard, Cornwall
+D(calc)     2.58
+Formula Wt  277.1250
+Title       The crystal structure of Mg end-member lizardite-1T forming 
+            polyhedral spheres from the Lizard, Cornwall
+Author(s)   Mellini, M.; Cressey, G.; Wicks, F.J.; Cressey. B.A.
+Reference   Mineralogical Magazine
+            (2010), 74, 277-284
+DOI         10.1180/minmag.2010.074.2.277
+Unit Cell   5.3111(10) 5.3111(10) 7.2907(15) 90. 90. 120.
+Vol         178.10
+Z           1
+Space Group P 3 1 m
+SG          P31M
+SG Number   157
+Cryst Sys   trigonal
+Laue Class  3-m
+Pearson     hP18
+Wyckoff     c3 b2 a
+R Value     0.0514
+Symmetry      1            x-y, -y, z             
+              2            -x, -x+y, z            
+              3            y, x, z                
+              4            -x+y, -x, z            
+              5            -y, x-y, z             
+              6            x, y, z                
+Red Cell    P  5.311100 5.311100 7.290700 90.000000 90.000000 120.000020 178.10
+Comments    
+Atom  #   OX   SITE      x           y           z           SOF      H        ITF(U)
+ Si   1  +4    2  b  0.3333      0.6667      0.0740(11)     1.0        0        0.0082(6)
+ Mg   1  +2    3  c  0.3317(4)   0           0.4524(10)     1.0        0        0.0077(6)
+ O    1  -2    2  b  0.3333      0.6667      0.292          1.0        0       0.0091(14)
+ O    2  -2    3  c  0.5036(9)   0           -0.0063(14)    1.0        0       0.0126(13)
+ O    3  -2    3  c  0.6697(15)  0           0.5888(13)     1.0        0       0.0117(14)
+ O    4  -2    1  a  0           0           0.2998(14)     1.0        0       0.0074(17)
+Lbl  Type      U11         U22         U33         U12         U13         U23            
+Si1   Si4+   0.0049(8)   0.0049(8)   0.0148(13)  0.0024(4)   0.          0.         
+Mg1   Mg2+   0.0056(9)   0.0058(11)  0.0119(12)  0.0029(6)   -0.0002(8)  0.         
+O1    O2-    0.0010(17)  0.0010(17)  0.0272(40)  0.0000(8)   0.          0.         
+O2    O2-    0.0085(22)  0.0087(25)  0.0207(29)  0.0043(12)  -0.0014(21) 0.         
+O3    O2-    0.0071(22)  0.0132(30)  0.0169(36)  0.0066(15)  -0.0050(26) 0.         
+O4    O2-    0.0066(24)  0.0066(24)  0.0091(43)  0.0033(12)  0.          0.         
+Std. Notes  Transformation Method: Tidy
+            
+Std. Cell   5.311100 5.311100 7.290700 90.000000 90.000000 120.000000 
+Std. Vol.   178.10
+Std. Z      1
+Std. SG     P31M
+Std. Pears. hP18
+Std. Wyck   c3 b2 a
+Atom  #   OX   SITE      x           y           z           SOF      H
+ Si   1  +4.00 2  b  0.3333      0.6667      0.0740         1.0        0   
+ Mg   1  +2.00 3  c  0.3317      0.0000      0.4524         1.0        0   
+ O    1  -2.00 2  b  0.3333      0.6667      0.2920         1.0        0   
+ O    2  -2.00 3  c  0.5036      0.0000      0.9937         1.0        0   
+ O    3  -2.00 3  c  0.6697      0.0000      0.5888         1.0        0   
+ O    4  -2.00 1  a  0.0000      0.0000      0.2998         1.0        0   
+*end for    ICSD # 181420

@@ -1,0 +1,87 @@
+*data for   ICSD # 109355 - File created with release 2021.2
+Copyright   (C)2022 by FIZ Karlsruhe - Leibniz Institute for Information 
+            Infrastructure. All rights reserved.
+Coll Code   109355
+Rec  Date   2007/04/01
+Mod  Date   2008/02/01
+Chem Name   Hexamagnesium closo-undecaoxodisilicate hexahydroxide hydrate
+Structured  Mg6 (Si4 O11) (O H)6 (H2 O)
+Sum         H8 Mg6 O18 Si4
+ANX         A2B3X9
+Min Name    Chrysotile
+Min Group   Serpentine
+Min Origin  Thedford Mines, Canada
+D(calc)     2.56
+Formula Wt  554.2500
+Title       The crystal structure of chrysotile. II. Clino-chrysotile
+Author(s)   Whittaker, E.J.W.
+Reference   Acta Crystallographica
+            (1956), 9, 855-862
+DOI         10.1107/S0365110X5600245X
+Unit Cell   14.65(1) 9.2 5.34(1) 90. 93.27(2) 90.
+Vol         718.55
+Z           2
+Space Group A 1 m 1
+SG          A1M1
+SG Number   8
+Cryst Sys   monoclinic
+Laue Class  2/m
+Pearson     mS72
+Wyckoff     b10 a8
+Symmetry      1            x, -y, z               
+              2            x, y, z                
+              3            x, -y+1/2, z+1/2       
+              4            x, y+1/2, z+1/2        
+Red Cell    A  5.318731 5.318731 14.650000 91.640873 91.640873 119.735260 359.28
+Comments    Cylindrical, c parallel to axis, b tangential to cylinder, radius of the fibres 
+            about 84 A
+            [TC74] Coordinates in the paper are obviously wrong.
+Atom  #   OX   SITE      x           y           z           SOF      H        
+ Si   1  +4    4  b  0.033       0.167       0.006          1.0        0      
+ Mg   1  +2    2  a  0.227       0           0.873          1.0        0      
+ Mg   2  +2    4  b  0.227       0.167       0.373          1.0        0      
+ O    1  -2    2  a  -.013       0           0              1.0        0      
+ O    2  -2    4  b  0           0.25        0.25           1.0        0      
+ O    3  -2    4  b  0.150       0.167       0.023          1.0        0      
+ O    4  -2    2  a  0.150       0.0         0.523          1.         H2     
+ O    5  -2    2  a  0.292       0           0.217          1.         H1     
+ O    6  -2    4  b  0.292       0.167       0.717          1.         H1     
+ Si   2  +4    4  b  0.533       0.167       0.025          1.0        0      
+ Mg   3  +2    2  a  0.727       0           0.892          1.0        0      
+ Mg   4  +2    4  b  0.727       0.167       0.392          1.0        0      
+ O    7  -2    2  a  .487        0           0.019          1.0        0      
+ O    8  -2    4  b  0.5         0.25        0.269          1.0        0      
+ O    9  -2    4  b  0.650       0.167       0.023          1.0        0      
+ O    10 -2    2  a  0.650       0.0         0.542          1.         H2     
+ O    11 -2    2  a  0.792       0           0.236          1.         H1     
+ O    12 -2    4  b  0.792       0.167       0.736          1.         H1     
+
+Std. Notes  Transformation Method: Tidy
+            REMARK Transformed from setting  A 1 m 1.--> C m 
+TRANS  c,-b,a     -x,-y,-z     origin  .76400 0 .20800
+Std. Cell   5.340000 9.200000 14.650000 90.000000 93.270000 90.000000 
+Std. Vol.   718.55
+Std. Z      2
+Std. SG     C1M1
+Std. Pears. mS72
+Std. Wyck   b10 a8
+Atom  #   OX   SITE      x           y           z           SOF      H
+ Si   1  +4.00 4  b  0.2300      0.1670      0.7590         1.0        0   
+ Mg   1  +2.00 2  a  0.3630      0.0000      0.5650         1.0        0   
+ Mg   2  +2.00 4  b  0.3630      0.3330      0.5650         1.0        0   
+ O    1  -2.00 2  a  0.2360      0.0000      0.8050         1.0        0   
+ O    2  -2.00 4  b  0.4860      0.2500      0.7920         1.0        0   
+ O    3  -2.00 4  b  0.2130      0.1670      0.6420         1.0        0   
+ O    4  -2.00 2  a  0.7130      0.0000      0.6420         1.0        0   
+ O    5  -2.00 2  a  0.0190      0.0000      0.5000         1.0        0   
+ O    6  -2.00 4  b  0.0190      0.3330      0.5000         1.0        0   
+ Si   2  +4.00 4  b  0.2110      0.1670      0.2590         1.0        0   
+ Mg   3  +2.00 2  a  0.3440      0.0000      0.0650         1.0        0   
+ Mg   4  +2.00 4  b  0.3440      0.3330      0.0650         1.0        0   
+ O    7  -2.00 2  a  0.2170      0.0000      0.3050         1.0        0   
+ O    8  -2.00 4  b  0.4670      0.2500      0.2920         1.0        0   
+ O    9  -2.00 4  b  0.2130      0.1670      0.1420         1.0        0   
+ O    10 -2.00 2  a  0.6940      0.0000      0.1420         1.0        0   
+ O    11 -2.00 2  a  0.0000      0.0000      0.0000         1.0        0   
+ O    12 -2.00 4  b  0.0000      0.3330      0.0000         1.0        0   
+*end for    ICSD # 109355

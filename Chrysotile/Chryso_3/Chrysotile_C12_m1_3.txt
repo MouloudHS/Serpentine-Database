@@ -1,0 +1,93 @@
+*data for   ICSD # 36225 - File created with release 2021.2
+Copyright   (C)2022 by FIZ Karlsruhe - Leibniz Institute for Information 
+            Infrastructure. All rights reserved.
+Coll Code   36225
+Rec  Date   1986/08/08
+Mod  Date   2016/02/01
+Chem Name   Hexamagnesium closo-undecaoxodisilicate hexahydroxide hydrate
+Structured  (O H)6 Mg6 Si4 O11 (H2 O)
+Sum         H8 Mg6 O18 Si4
+ANX         A2B3X9
+Min Name    Chrysotile
+Min Group   Serpentine
+Min Origin  Thedford Mines, Canada
+D(calc)     2.55
+Formula Wt  554.2500
+Title       The crystal structure of chrysotile H4 Mg3 Si2 O9
+Author(s)   Warren, B.E.; Bragg, W.L.
+Reference   Zeitschrift fuer Kristallographie
+            (1931), 76, 201-210
+DOI         
+Unit Cell   14.66 18.5 5.33 90. 93.27 90.
+Vol         1443.20
+Z           4
+Space Group C 1 2/m 1
+SG          C12/M1
+SG Number   12
+Cryst Sys   monoclinic
+Laue Class  2/m
+Pearson     mS144
+Wyckoff     j11 i4 g e
+Symmetry      1            -x, y, -z              
+              2            -x, -y, -z             
+              3            x, -y, z               
+              4            x, y, z                
+              5            -x+1/2, y+1/2, -z      
+              6            -x+1/2, -y+1/2, -z     
+              7            x+1/2, -y+1/2, z       
+              8            x+1/2, y+1/2, z        
+Red Cell    C  5.330000 11.802178 11.802178 103.211107 92.030232 92.030232 
+            721.60
+Comments    hk0 data only, z-coordinates not determined
+            Model with amphibole-like double chains, not correct
+            Superseded by ICSD109355 with halved b
+            d[Mg2-O6] = 1.03A dev. -51% (tol.40%) from expected d=2.09A
+            d[O4-O9] = 1.48A dev. -41% (tol.40%) from expected d=2.50A
+            d[O2-Si2] = 0.86A dev. -49% (tol.40%) from expected d=1.70A
+            [TC74] Coordinates in the paper are obviously wrong.
+Atom  #   OX   SITE      x           y           z           SOF      H        
+ Si   1  +4    8  j  0.13        0.08        0              1.0        0      
+ Si   2  +4    8  j  0.13        0.17        0              1.0        0      
+ Mg   1  +2    4  g  0           0.25        0              1.0        0      
+ Mg   2  +2    8  j  0.18        0.33        0              1.0        0      
+ Mg   3  +2    8  j  0.18        0.42        0              1.0        0      
+ Mg   4  +2    4  i  0.18        0.5         0              1.0        0      
+ O    1  -2    4  i  0.1         0           0              1.0        0      
+ O    2  -2    8  j  0.1         0.13        0              1.0        0      
+ O    3  -2    8  j  0.1         0.13        0.5            1.0        0      
+ O    4  -2    8  j  0.1         0.25        0              1.0        0      
+ O    5  -2    8  j  0.25        0.08        0              1.0        0      
+ O    6  -2    8  j  0.25        0.17        0              1.0        0      
+ O    7  -2    4  e  0.25        0.25        0              1.         H2     
+ O    8  -2    4  i  0.25        0           0              1.         H1     
+ O    9  -2    8  j  0.1         0.33        0              1.         H1     
+ O    10 -2    8  j  0.1         0.42        0              1.         H1     
+ O    11 -2    4  i  0.1         0.5         0              1.         H1     
+
+Std. Notes  Transformation Method: Tidy
+            TRANS  Origin  0 1/2 0
+Std. Cell   14.660000 18.500000 5.330000 90.000000 93.270000 90.000000 
+Std. Vol.   1443.20
+Std. Z      4
+Std. SG     C12/M1
+Std. Pears. mS144
+Std. Wyck   j11 i4 g e
+Atom  #   OX   SITE      x           y           z           SOF      H
+ Si   1  +4.00 8  j  0.3700      0.0800      0.0000         1.0        0   
+ Si   2  +4.00 8  j  0.1300      0.3300      0.0000         1.0        0   
+ Mg   1  +2.00 4  g  0.0000      0.2500      0.0000         1.0        0   
+ Mg   2  +2.00 8  j  0.1800      0.1700      0.0000         1.0        0   
+ Mg   3  +2.00 8  j  0.1800      0.0800      0.0000         1.0        0   
+ Mg   4  +2.00 4  i  0.1800      0.0000      0.0000         1.0        0   
+ O    1  -2.00 4  i  0.4000      0.0000      0.0000         1.0        0   
+ O    2  -2.00 8  j  0.1000      0.3700      0.0000         1.0        0   
+ O    3  -2.00 8  j  0.1000      0.3700      0.5000         1.0        0   
+ O    4  -2.00 8  j  0.1000      0.2500      0.0000         1.0        0   
+ O    5  -2.00 8  j  0.2500      0.0800      0.0000         1.0        0   
+ O    6  -2.00 8  j  0.2500      0.1700      0.0000         1.0        0   
+ O    7  -2.00 4  e  0.2500      0.2500      0.0000         1.0        0   
+ O    8  -2.00 4  i  0.2500      0.0000      0.0000         1.0        0   
+ O    9  -2.00 8  j  0.1000      0.1700      0.0000         1.0        0   
+ O    10 -2.00 8  j  0.1000      0.0800      0.0000         1.0        0   
+ O    11 -2.00 4  i  0.1000      0.0000      0.0000         1.0        0   
+*end for    ICSD # 36225

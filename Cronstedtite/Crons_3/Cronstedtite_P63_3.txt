@@ -1,0 +1,84 @@
+*data for   ICSD # 95932 - File created with release 2021.2
+Copyright   (C)2022 by FIZ Karlsruhe - Leibniz Institute for Information 
+            Infrastructure. All rights reserved.
+Coll Code   95932
+Rec  Date   2004/04/01
+Mod  Date   
+Chem Name   Iron iron(III) silicon oxide hydroxide (2.32/1.36/1.32/5/4)
+Structured  Fe3 (Si1.32 Fe0.68) O5 (O H)4
+Sum         H4 Fe3.68 O9 Si1.32
+ANX         ABC3X9
+Min Name    Cronstedtite 2H2
+Min Group   Serpentine
+Min Origin  Pribram, Czech Republic
+D(calc)     3.51
+Formula Wt  390.6245
+Title       Refinement of the crystal structure of cronstedtite - 2H2
+Author(s)   Hybler, J.; Petricek, V.; Fabry, J.; Durovic, S.
+Reference   Clays and Clay Minerals
+            (2002), 50, 601-613
+DOI         10.1346/000986002320679332
+Unit Cell   5.493(2) 5.493(2) 14.148(3) 90 90 120
+Vol         369.70
+Z           2
+Space Group P 63
+SG          P63
+SG Number   173
+Cryst Sys   hexagonal
+Laue Class  6/m
+Pearson     hP36
+Wyckoff     c3 b3 a2
+R Value     .0477
+Symmetry      1            x-y, x, z+1/2          
+              2            y, -x+y, z+1/2         
+              3            -x, -y, z+1/2          
+              4            -x+y, -x, z            
+              5            -y, x-y, z             
+              6            x, y, z                
+Red Cell    P  5.493000 5.493000 14.148000 90.000000 90.000000 120.000056 369.70
+Comments    
+Atom  #   OX   SITE      x           y           z           SOF      H        ITF(U)
+ Fe   1  +2    6  c  0.3328(1)   0.0016(2)   0.4            0.773      0        0.0100(1)
+ Fe   2  +3    6  c  0.3328(1)   0.0016(2)   0.4            0.227      0        0.0100(1)
+ Si   1  +4    2  a  0           0           0.2016(1)      0.432(8)   0        0.0116(1)
+ Fe   3  +3    2  a  0           0           0.2016(1)      0.568(8)   0        0.0116(1)
+ Si   2  +4    2  b  0.6667      0.3333      0.1994(2)      0.888(7)   0        0.0121(2)
+ Fe   4  +3    2  b  0.6667      0.3333      0.1994(2)      0.112(7)   0        0.0121(2)
+ O    1  -2    6  c  0.3268(6)   0.0993(6)   0.1640(2)      1.0        0         0.031(1)
+ O    2  -2    2  a  0           0           0.3236(2)      1.0        0        0.0164(7)
+ O    3  -2    2  b  0.6667      0.3333      0.3246(2)      1.0        0        0.0154(7)
+ O    4  -2    2  b  0.3333      0.6667      0.3254(2)      1.         H1       0.0156(7)
+ O    5  -2    6  c  0.3356(5)   0.3374(5)   0.4705(2)      1.         H1       0.0136(7)
+Lbl  Type      U11         U22         U33         U12         U13         U23            
+Fe1   Fe2+   0.0102(2)   0.0102(2)   0.0097(2)   0.0051(1)   0.0008(2)   -0.0004(1) 
+Fe2   Fe3+   0.0102(2)   0.0102(2)   0.0097(2)   0.0051(1)   0.0008(2)   -0.0004(1) 
+Si1   Si4+   0.0148(2)   0.0148(2)   0.0053(2)   0.0074(1)   0.          0.         
+Fe3   Fe3+   0.0148(2)   0.0148(2)   0.0053(2)   0.0074(1)   0.          0.         
+Si2   Si4+   0.0154(2)   0.0154(2)   0.0054(3)   0.0077(1)   0.          0.         
+Fe4   Fe3+   0.0154(2)   0.0154(2)   0.0054(3)   0.0077(1)   0.          0.         
+O1    O2-    0.035(1)    0.035(1)    0.019(1)    0.017(1)    0.000(1)    0.0002(9)  
+O2    O2-    0.0203(8)   0.0203(8)   0.009(1)    0.0101(4)   0.          0.         
+O3    O2-    0.0174(8)   0.0174(8)   0.011(1)    0.0087(4)   0.          0.         
+O4    O2-    0.0193(8)   0.0193(8)   0.008(1)    0.0096(5)   0.          0.         
+O5    O2-    0.0183(9)   0.0158(9)   0.0078(9)   0.0095(6)   0.0027(7)   0.0024(9)  
+Std. Notes  Transformation Method: Tidy
+            TRANS  -x,-y,-z
+Std. Cell   5.493000 5.493000 14.148000 90.000000 90.000000 120.000000 
+Std. Vol.   369.70
+Std. Z      2
+Std. SG     P63
+Std. Pears. hP36
+Std. Wyck   c3 b3 a2
+Atom  #   OX   SITE      x           y           z           SOF      H
+ Fe   1  +2.00 6  c  0.3328      0.0016      0.1000         0.7730     0   
+ Fe   2  +3.00 6  c  0.3328      0.0016      0.1000         0.2270     0   
+ Si   1  +4.00 2  a  0.0000      0.0000      0.2984         0.4320     0   
+ Fe   3  +3.00 2  a  0.0000      0.0000      0.2984         0.5680     0   
+ Si   2  +4.00 2  b  0.3333      0.6667      0.8000         0.8880     0   
+ Fe   4  +3.00 2  b  0.3333      0.6667      0.8000         0.1120     0   
+ O    1  -2.00 6  c  0.3268      0.0993      0.3360         1.0        0   
+ O    2  -2.00 2  a  0.0000      0.0000      0.1764         1.0        0   
+ O    3  -2.00 2  b  0.3333      0.6667      0.6754         1.0        0   
+ O    4  -2.00 2  b  0.3333      0.6667      0.1746         1.0        0   
+ O    5  -2.00 6  c  0.3356      0.3374      0.0295         1.0        0   
+*end for    ICSD # 95932
